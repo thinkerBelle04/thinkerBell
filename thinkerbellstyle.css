@@ -1,0 +1,115 @@
+body{
+  background-image: url("images/wedding2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 2000px 560px;
+}
+
+
+h1{
+  background-color: white;
+  font-size: 30px;
+  margin-top: 0px;
+  padding-top: 20px;
+  font-family: "Lucida Handwriting",cursive;
+  font-style: italic;
+  text-decoration: underline;
+  text-align: right;
+  padding-right: 20px;
+}
+
+
+
+p:nth-child(1) {
+  color: white;
+  font-family:"Brush Script MT",cursive;
+  font-size: 85px;
+  font-style: italic;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+p:nth-child(2) {
+  color: white;
+  font-family:,cursive;
+  font-size: 13px;
+  font-style: italic;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  margin-top: 0;
+  margin-bottom: 60px;
+  background-color: black;
+  opacity: 0.6;
+  text-align: center;
+}
+
+a[href="https://www.facebook.com/ThinkerBellEventsTeam/about/?ref=page_internal"]{
+border-style: solid;
+border-width: thin;
+border-color: black;
+background-color: white;
+color: black;
+font-size: 10px;
+font-family: "Lucida Console", monospace;
+padding: 8px;
+text-decoration: none;
+margin-left: 47%;
+}
+
+a[href="https://www.facebook.com/ThinkerBellEventsTeam/about/?ref=page_internal"]:hover{
+  color: white;
+  background-color: gray;
+  text-align: center;
+  padding: 10px;
+}
+
+
+ul.topmenu {
+  font-family:"Monaco",monospace;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+  padding: 20px;
+}
+
+a[href="https://www.facebook.com/ThinkerBellEventsTeam"]:visited{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px;
+}
+
+
+a[href="https://www.facebook.com/ThinkerBellEventsTeam"]:hover, a[href="https://www.facebook.com/ThinkerBellEventsTeam"]:active {
+  background-color: darkgray;
+  color: white;
+}
+
+a[href="https://thinkerbelle04.github.io/MainProfile/"]:visited{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px;
+}
+
+
+a[href="https://thinkerbelle04.github.io/MainProfile/"]:hover, a[href="https://thinkerbelle04.github.io/MainProfile/"]:active {
+  background-color: darkgray;
+  color: white;
+}
+
+li{
+  display: inline;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 0px;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 20px;
+  text-decoration: none;
+}
